@@ -146,7 +146,6 @@ namespace Batch13Oops
                 case 4:
                     Console.WriteLine("Four");
                     break;
-               
                 default:
                     Console.WriteLine("OTHER");
                     break;
