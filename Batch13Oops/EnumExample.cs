@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Batch13Oops
+amespace Batch13Oops
 {
-    public enum Days
+    public enum Daysn
     {
         Sunday,
         Monday,
