@@ -143,6 +143,10 @@ namespace Batch13Oops
                 case 3:
                     Console.WriteLine("THREE");
                     break;
+                case 4:
+                    Console.WriteLine("Four");
+                    break;
+               
                 default:
                     Console.WriteLine("OTHER");
                     break;
