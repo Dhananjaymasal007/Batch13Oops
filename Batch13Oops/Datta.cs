@@ -14,5 +14,11 @@ namespace Batch13Oops
             Console.WriteLine("Good Morning");
         }
 
+        public void Test()
+        {
+            Console.WriteLine("Test Message");
+           
+        }
+
     }
 }
