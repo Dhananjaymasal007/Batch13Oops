@@ -8,5 +8,10 @@ namespace Batch13Oops
 {
     internal class Datta
     {
+        public void Display()
+        {
+            Console.WriteLine("Test Message");
+        }
+
     }
 }
