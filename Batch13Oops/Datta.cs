@@ -14,5 +14,9 @@ namespace Batch13Oops
             Console.WriteLine("Good Morning");
         }
 
+        public void Display1()
+        {
+            Console.WriteLine("In Dispplay Method");
+        }
     }
 }
