@@ -8,5 +8,9 @@ namespace Batch13Oops
 {
     internal class viikas
     {
+        public void Didplay()
+        {
+            Console.WriteLine("test");
+        }
     }
 }
