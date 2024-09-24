@@ -11,6 +11,7 @@ namespace Batch13Oops
         public void Display()
         {
             Console.WriteLine("Test Message");
+            Console.WriteLine("Good Morning");
         }
 
     }
