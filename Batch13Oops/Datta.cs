@@ -18,5 +18,10 @@ namespace Batch13Oops
         {
             Console.WriteLine("In Dispplay Method");
         }
+        public void Test()
+        {
+            Console.WriteLine("Test Message");
+
+        }
     }
 }
