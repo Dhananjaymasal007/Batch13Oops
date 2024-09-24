@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-amespace Batch13Oops
+namespace Batch13Oops
 {
     public enum Daysn
     {
