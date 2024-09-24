@@ -8,5 +8,9 @@ namespace Batch13Oops
 {
     internal class Vishal
     {
+        public void Display()
+        {
+            Console.WriteLine("I am a student of Batch13.");
+        }
     }
 }
