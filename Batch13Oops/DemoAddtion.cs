@@ -15,7 +15,8 @@ namespace Batch13Oops
         public static void Main(string[] args)
         {
             DemoAddtion demoAddtion = new DemoAddtion();
-            demoAddtion.add(1, 2);
+            int c = demoAddtion.add(1, 2);
+            Console.WriteLine("Addition : " + c);
         }
     }
 }
